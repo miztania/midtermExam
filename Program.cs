@@ -57,7 +57,7 @@ namespace midtermExam{
             }else if (areaI == 0){
                  return "No Overlaping";
             }
-            return " ";
+            return "No Overlaping";
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\midtermExam\bin\Debug\net7.0\midtermExam.exe
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\midtermExam\bin\Debug\net7.0\midtermExam.deps.json
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\midtermExam\bin\Debug\net7.0\midtermExam.runtimeconfig.json
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\midtermExam\bin\Debug\net7.0\midtermExam.dll
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\midtermExam\bin\Debug\net7.0\midtermExam.pdb
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\midtermExam\obj\Debug\net7.0\midtermExam.csproj.AssemblyReference.cache
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\midtermExam\obj\Debug\net7.0\midtermExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\midtermExam\obj\Debug\net7.0\midtermExam.AssemblyInfoInputs.cache
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\midtermExam\obj\Debug\net7.0\midtermExam.AssemblyInfo.cs
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\midtermExam\obj\Debug\net7.0\midtermExam.csproj.CoreCompileInputs.cache
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\midtermExam\obj\Debug\net7.0\midtermExam.dll
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\midtermExam\obj\Debug\net7.0\refint\midtermExam.dll
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\midtermExam\obj\Debug\net7.0\midtermExam.pdb
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\midtermExam\obj\Debug\net7.0\midtermExam.genruntimeconfig.cache
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\midtermExam\obj\Debug\net7.0\ref\midtermExam.dll

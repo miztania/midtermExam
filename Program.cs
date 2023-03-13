@@ -30,7 +30,7 @@ namespace midtermExam{
             Console.WriteLine(l2[0] + "," + l2[1]);
             Console.WriteLine(r2[0] + "," + r2[1]);
       */     
-            Console.WriteLine(CheckAnwser(overlappingArea(l1,r1,l2,r2)));
+            Console.WriteLine(CheckAnswer(overlappingArea(l1,r1,l2,r2)));
 
             
             
@@ -55,7 +55,7 @@ namespace midtermExam{
             return (areaI);
         }
 
-        static string CheckAnwser(float areaI){
+        static string CheckAnswer(float areaI){
 
             if(areaI > 8 ){
                 return "Too Much Overlaping";

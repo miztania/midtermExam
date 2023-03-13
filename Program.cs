@@ -51,7 +51,7 @@ namespace midtermExam{
 
             if(areaI > 8 ){
                 return "Too Much Overlaping";
-            }else if (areaI < 8){
+            }else if (areaI < 8 && areaI > 0){
                 return "Not Much Overlaping";
             }else if (areaI == 0){
                  return "No Overlaping";

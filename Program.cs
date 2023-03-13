@@ -18,11 +18,12 @@ namespace midtermExam{
             float[] r1 = {x1+w1+h1,y1+w1+h1};
             float[] l2 = {x2+w1-h1,y2+w2-h2};
             float[] r2 = {x2+w2+h2,y2+w2+h2};
-
+/*
             Console.WriteLine(l1[0] + "," + l1[1]);
             Console.WriteLine(r1[0] + "," + r1[1]);
             Console.WriteLine(l2[0] + "," + l2[1]);
             Console.WriteLine(r2[0] + "," + r2[1]);
+            */
             Console.WriteLine(CheckAnwser(overlappingArea(l1,r1,l2,r2)));
 
             
@@ -43,7 +44,7 @@ namespace midtermExam{
              if (x_dist > 0 && y_dist > 0) {
                      areaI = x_dist * y_dist;
             }
-            Console.WriteLine(areaI);
+           // Console.WriteLine(areaI);
             return (areaI);
         }
 
